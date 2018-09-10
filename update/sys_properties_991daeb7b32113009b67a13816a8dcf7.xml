@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
     <sys_properties action="INSERT_OR_UPDATE">
         <choices/>
         <description>Number of seconds to add between conesecutive reservations of a Thing when request the next avilable reservation for a Thing.</description>

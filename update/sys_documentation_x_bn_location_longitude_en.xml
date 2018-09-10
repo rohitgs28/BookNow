@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_documentation element="longitude" label="Longitude" language="en" table="x_bn_location">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>longitude</element>
